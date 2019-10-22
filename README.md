@@ -60,8 +60,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/rubyku
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Consulting
-
-You can contact Openware for finding certified vendors:
-[Openware.com](https://www.openware.com)
